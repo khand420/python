@@ -1,0 +1,62 @@
+﻿I am pursuing B-tech in Computer Science and Engineering at K. K College Of Engineering & Management Dhanbad currently I'm in 3rd year. Since these three years, I’ve learned technologies and have built multiples projects.
+
+ 
+
+ I am proficiently in python and have built Games like Flappy Bird, Snake, Rock Paper & Scissor, Web Scrapers using beautiful-soup library and websites like E-Commerce, Blog and To-do app by using Django framework. I extended my knowledge in python to learn machine Learning and have built models using datasets like CoronaVirus Detector and House price Predictor. 
+
+ WEB-DEVELOPMENT: I've design website like fashion, portfolio, E-commerce by using HTML, CSS, JavaScript, Ajax, jQuery and bootstrap.
+
+ JAVA: I've built Note App by using Dynamic Web Project, connected with Database with the help of servlet, you can easily Add, Edit or Delete in the Note And I've also built Library Management System, Snake game using java.
+
+ Accomplishment:
+
+ I have participated on Google Cloud Platform 60 days program and got skill certificates and swags and also participate on Open-source Platform like Digital Ocean Hacktoberfest and got rewarded by them.
+ 
+
+ 
+ 
+
+ 
+
+This is my Blog which is in django -> https://code2hell.herokuapp.com/
+This is my GitHub Account -> https://github.com/khand420
+
+
+I am 2'Nd year Computer Science Engineering Student Batch(2019-23) from K. K College Of Engineering & Management at govindpur, Dhanbad (Jharkhand). Since these two years. I've learned technologies and have built multiples projects.
+
+ 
+
+ PYTHON: 
+
+ I am proficiently in python and have built Games like Flappy Bird, Snake, Rock Paper & Scissor, Web Scrapers, websites like E-Commerce, Blog, To-do by using Django like framework and more.
+
+ I extended my knowledge in python to learn machine Learning and have built models using datasets like CoronaVirus Detector and House price Predictor. 
+
+ 
+
+ WEB-DEVELOPMENT:
+
+ I've design like fashion, portfolio, E-commerce like websites by using HTML, CSS, JavaScript, Ajax, jQuery.
+
+ 
+
+ JAVA: 
+
+ I've built Note App by using Dynamic Web Project, connected with Database with the help of servlet, you can easily Add, Edit or Delete in the Note. And I've also built Library Management System, Snake game using java.
+
+ 
+
+ Accomplishment:
+
+ I have participated on Google Cloud Platform 60 days program and got skill certificates and swags and also participate on Open-source Platform like Digital Ocean Hacktoberfest and got rewarded by them.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
